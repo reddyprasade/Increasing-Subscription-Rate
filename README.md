@@ -22,10 +22,7 @@ import pandas as pd
 dataset = pd.read_csv('Increasing_Subscription_Rate.csv')
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
+# Outputs:
+![](https://lh3.googleusercontent.com/-JzooAcfS6Cc/XkE0DQuPDII/AAAAAAAAmrU/p399qz6YhNIPrCTgkv_BpCycWqAOYsWjgCK8BGAsYHg/s0/Evaluating%2BResults.png)
 ## License
 [MIT License Copyright (c) 2020 REDDY PRASAD](https://choosealicense.com/licenses/mit/)
